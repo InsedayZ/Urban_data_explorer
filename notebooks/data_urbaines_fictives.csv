@@ -1,0 +1,121 @@
+ID_Post,Date_Publication,Plateforme,Type_Pratique,Mots_Cles,Sentiment,Nb_Likes,Nb_Commentaires,Nb_Partages,Localisation
+1,2024-01-15,Instagram,Street Art,"Fresque, Murale, Art Urbain, Graffiti",Positif,1500,80,120,Paris
+2,2024-01-16,TikTok,Danse Urbaine,"Breakdance, Battle, Crew, HipHop",Très Positif,3200,150,280,Marseille
+3,2024-01-17,Forum_Specialise,Musique Alternative,"Rap Indé, Scène Locale, Underground",Neutre,450,30,15,Lyon
+4,2024-01-18,Instagram,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Neutre,155,5,6,Cameroun
+5,2024-01-19,YouTube,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Très Positif,2078,108,78,Paris
+6,2024-01-20,TikTok,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Très Positif,2912,410,138,Sénégal
+7,2024-01-21,TikTok,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Très Positif,6534,838,712,Tunisie
+8,2024-01-22,TikTok,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Neutre,395,23,40,RDC
+9,2024-01-23,Instagram,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Positif,2603,144,245,États-Unis
+10,2024-01-24,Instagram,Musique Alternative,"Rap Indé, Scène Locale, Underground",Très Positif,809,114,34,États-Unis
+11,2024-01-25,TikTok,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Positif,5113,643,367,Cameroun
+12,2024-01-26,YouTube,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Positif,2403,119,167,Paris
+13,2024-01-27,TikTok,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Positif,2006,200,77,Paris
+14,2024-01-28,YouTube,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Très Positif,1149,99,106,Royaume-Uni
+15,2024-01-29,Facebook,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Positif,71,9,5,Toulouse
+16,2024-01-30,Facebook,Jeux vidéo,"Gaming, Stream, Console, PC",Neutre,797,106,33,Paris
+17,2024-01-31,TikTok,Mode urbaine,"Streetwear, Tendance, Sneakers",Très Positif,7353,984,684,Nice
+18,2024-02-01,Instagram,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Très Positif,2675,336,284,Afrique du Sud
+19,2024-02-02,Instagram,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Positif,1447,95,105,Kenya
+20,2024-02-03,Instagram,Jeux traditionnels,"Awalé, Mancala, Jeux de rue",Positif,2751,275,120,Rennes
+21,2024-02-04,Instagram,E-sport,"Tournoi, Gaming, Compétition",Très Positif,431,52,16,Toulouse
+22,2024-02-05,Instagram,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Négatif,3397,107,78,Kenya
+23,2024-02-06,TikTok,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Neutre,2639,236,176,Toulouse
+24,2024-02-07,Forum_Specialise,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Positif,506,30,10,Nigeria
+25,2024-02-08,TikTok,Musique Alternative,"Rap Indé, Scène Locale, Underground",Très Positif,1195,90,92,Paris
+26,2024-02-09,TikTok,Jeux traditionnels,"Awalé, Mancala, Jeux de rue",Très Positif,2393,311,195,Sénégal
+27,2024-02-10,Instagram,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Neutre,2182,135,220,Nantes
+28,2024-02-11,Twitter,Skate,"Skatepark, Tricks, Board",Positif,276,33,21,Maroc
+29,2024-02-12,Instagram,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Neutre,2537,209,151,Algérie
+30,2024-02-13,Twitter,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Positif,352,30,28,Algérie
+31,2024-02-14,Facebook,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Très Positif,82,11,5,Côte d'Ivoire
+32,2024-02-15,Twitter,Street Art,"Fresque, Graffiti, Murale, Pochoir",Neutre,651,60,39,Côte d'Ivoire
+33,2024-02-16,TikTok,Skate,"Skatepark, Tricks, Board",Positif,3988,396,107,Sénégal
+34,2024-02-17,Forum_Specialise,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Neutre,549,56,51,Nantes
+35,2024-02-18,TikTok,Événement Communautaire,"Festival, Quartier, Solidarité",Neutre,4009,327,201,Grenoble
+36,2024-02-19,Facebook,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Positif,732,88,20,Paris
+37,2024-02-20,Instagram,Skate,"Skatepark, Tricks, Board",Neutre,108,9,5,Cameroun
+38,2024-02-21,YouTube,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Très Positif,968,139,50,Brésil
+39,2024-02-22,TikTok,Skate,"Skatepark, Tricks, Board",Très Positif,6758,930,363,Lyon
+40,2024-02-23,TikTok,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Très Positif,2862,360,244,Bordeaux
+41,2024-02-24,TikTok,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Neutre,6534,375,220,Lille
+42,2024-02-25,Facebook,Jeux traditionnels,"Awalé, Mancala, Jeux de rue",Positif,133,6,14,Rennes
+43,2024-02-26,Instagram,Mode urbaine,"Streetwear, Tendance, Sneakers",Positif,2167,111,49,Afrique du Sud
+44,2024-02-27,TikTok,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Positif,4783,389,506,Marseille
+45,2024-02-28,TikTok,Jeux vidéo,"Gaming, Stream, Console, PC",Positif,4562,224,255,Maroc
+46,2024-02-29,Twitter,Événement Communautaire,"Festival, Quartier, Solidarité",Très Positif,372,52,17,Côte d'Ivoire
+47,2024-03-01,TikTok,Mode urbaine,"Streetwear, Tendance, Sneakers",Très Positif,5195,584,181,Ghana
+48,2024-03-02,Instagram,Jeux vidéo,"Gaming, Stream, Console, PC",Neutre,4091,266,181,Ghana
+49,2024-03-03,TikTok,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Positif,5973,343,340,Algérie
+50,2024-03-04,TikTok,Musique Alternative,"Rap Indé, Scène Locale, Underground",Négatif,5394,558,401,Grenoble
+51,2024-03-05,TikTok,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Neutre,2762,331,136,Afrique du Sud
+52,2024-03-06,TikTok,Street Art,"Fresque, Graffiti, Murale, Pochoir",Positif,3488,332,306,Espagne
+53,2024-03-07,TikTok,Jeux traditionnels,"Awalé, Mancala, Jeux de rue",Positif,7692,866,270,Canada
+54,2024-03-08,YouTube,Jeux vidéo,"Gaming, Stream, Console, PC",Très Positif,1646,140,118,Toulouse
+55,2024-03-09,Twitter,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Positif,124,7,4,Brésil
+56,2024-03-10,TikTok,E-sport,"Tournoi, Gaming, Compétition",Très Positif,2192,239,93,Algérie
+57,2024-03-11,YouTube,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Négatif,1561,87,180,Italie
+58,2024-03-12,TikTok,Événement Communautaire,"Festival, Quartier, Solidarité",Neutre,2827,96,334,Côte d'Ivoire
+59,2024-03-13,Facebook,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Négatif,1101,34,51,RDC
+60,2024-03-14,YouTube,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Positif,2048,81,216,Afrique du Sud
+61,2024-03-15,YouTube,Musique Alternative,"Rap Indé, Scène Locale, Underground",Neutre,2760,130,104,RDC
+62,2024-03-16,Instagram,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Très Positif,4305,591,284,Montpellier
+63,2024-03-17,YouTube,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Très Positif,2375,82,122,RDC
+64,2024-03-18,TikTok,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Très Positif,2372,170,203,Lyon
+65,2024-03-19,Forum_Specialise,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Très Positif,28,1,2,Éthiopie
+66,2024-03-20,YouTube,E-sport,"Tournoi, Gaming, Compétition",Positif,638,54,25,Nigeria
+67,2024-03-21,Facebook,Mode urbaine,"Streetwear, Tendance, Sneakers",Positif,1394,196,159,Canada
+68,2024-03-22,TikTok,Street Art,"Fresque, Graffiti, Murale, Pochoir",Très Positif,5094,702,250,Montpellier
+69,2024-03-23,Facebook,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Très Positif,245,11,7,Paris
+70,2024-03-24,TikTok,Mode urbaine,"Streetwear, Tendance, Sneakers",Très Positif,399,16,38,Allemagne
+71,2024-03-25,Twitter,Événement Communautaire,"Festival, Quartier, Solidarité",Positif,609,35,37,Tunisie
+72,2024-03-26,TikTok,Jeux vidéo,"Gaming, Stream, Console, PC",Neutre,6234,675,410,Nice
+73,2024-03-27,TikTok,E-sport,"Tournoi, Gaming, Compétition",Neutre,1315,101,132,Japon
+74,2024-03-28,Facebook,Événement Communautaire,"Festival, Quartier, Solidarité",Positif,915,103,89,Algérie
+75,2024-03-29,Instagram,Musique Alternative,"Rap Indé, Scène Locale, Underground",Négatif,2338,242,271,RDC
+76,2024-03-30,Instagram,Street Art,"Fresque, Graffiti, Murale, Pochoir",Positif,3821,215,283,Sénégal
+77,2024-03-31,Instagram,Mode urbaine,"Streetwear, Tendance, Sneakers",Très Positif,2790,165,79,Strasbourg
+78,2024-04-01,TikTok,Événement Communautaire,"Festival, Quartier, Solidarité",Positif,7783,480,399,Allemagne
+79,2024-04-02,TikTok,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Positif,6099,906,366,Maroc
+80,2024-04-03,Facebook,Mode urbaine,"Streetwear, Tendance, Sneakers",Positif,1361,191,134,Ghana
+81,2024-04-04,Twitter,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Positif,358,47,23,Kenya
+82,2024-04-05,YouTube,Jeux traditionnels,"Awalé, Mancala, Jeux de rue",Très Positif,1390,52,38,Lyon
+83,2024-04-06,YouTube,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Positif,716,33,33,Sénégal
+84,2024-04-07,Instagram,Jeux vidéo,"Gaming, Stream, Console, PC",Très Positif,2316,133,144,Nigeria
+85,2024-04-08,Instagram,Jeux vidéo,"Gaming, Stream, Console, PC",Très Positif,3904,331,198,Kenya
+86,2024-04-09,Instagram,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Positif,163,10,17,Marseille
+87,2024-04-10,Instagram,Événement Communautaire,"Festival, Quartier, Solidarité",Neutre,950,141,54,Allemagne
+88,2024-04-11,TikTok,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Négatif,494,34,27,Côte d'Ivoire
+89,2024-04-12,TikTok,Skate,"Skatepark, Tricks, Board",Neutre,3801,427,355,Ghana
+90,2024-04-13,Instagram,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Neutre,3476,164,315,Éthiopie
+91,2024-04-14,TikTok,Mode urbaine,"Streetwear, Tendance, Sneakers",Positif,2672,221,298,Éthiopie
+92,2024-04-15,TikTok,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Très Positif,6632,221,614,États-Unis
+93,2024-04-16,YouTube,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Très Positif,1287,190,85,Strasbourg
+94,2024-04-17,Twitter,Musique Alternative,"Rap Indé, Scène Locale, Underground",Très Positif,435,21,17,Canada
+95,2024-04-18,TikTok,E-sport,"Tournoi, Gaming, Compétition",Très Positif,7630,541,462,Paris
+96,2024-04-19,TikTok,Événement Communautaire,"Festival, Quartier, Solidarité",Positif,1473,216,104,Algérie
+97,2024-04-20,TikTok,Jeux vidéo,"Gaming, Stream, Console, PC",Neutre,7215,819,597,Lyon
+98,2024-04-21,TikTok,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Neutre,1834,78,139,Ghana
+99,2024-04-22,TikTok,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Très Positif,6912,877,673,Corée du Sud
+100,2024-04-23,YouTube,Street Art,"Fresque, Graffiti, Murale, Pochoir",Très Positif,1188,175,27,Rennes
+101,2024-04-24,TikTok,Danse Urbaine,"Breakdance, Freestyle, Crew, HipHop",Très Positif,6186,264,218,Éthiopie
+102,2024-04-25,Twitter,Skate,"Skatepark, Tricks, Board",Positif,182,14,4,Algérie
+103,2024-04-26,Instagram,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Très Positif,2937,186,173,Bordeaux
+104,2024-04-27,TikTok,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Neutre,4412,532,303,Grenoble
+105,2024-04-28,Instagram,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Positif,2568,331,190,Sénégal
+106,2024-04-29,Facebook,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Positif,205,25,7,Kenya
+107,2024-04-30,YouTube,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Très Positif,1135,155,99,Marseille
+108,2024-05-01,Instagram,Événement Communautaire,"Festival, Quartier, Solidarité",Positif,1036,57,44,Maroc
+109,2024-05-02,YouTube,Danse - Afro,"Afrobeats, Chorégraphie, Kuduro",Neutre,2864,242,99,Royaume-Uni
+110,2024-05-03,Facebook,Jeux vidéo,"Gaming, Stream, Console, PC",Neutre,722,52,68,Corée du Sud
+111,2024-05-04,TikTok,Mode urbaine,"Streetwear, Tendance, Sneakers",Positif,509,69,22,Toulouse
+112,2024-05-05,YouTube,Jeux vidéo,"Gaming, Stream, Console, PC",Très Positif,1378,54,38,Cameroun
+113,2024-05-06,TikTok,Musique urbaine,"Rap, Afrotrap, Drill, Beat",Très Positif,7565,867,202,RDC
+114,2024-05-07,Facebook,Skate,"Skatepark, Tricks, Board",Positif,1440,90,47,RDC
+115,2024-05-08,Instagram,Arts capillaires - Tresses,"Tresses, Box braids, Protectrice",Positif,4855,593,302,Maroc
+116,2024-05-09,TikTok,Danse - Hip-Hop,"Battle, Pop/Lock, Crew, Break",Positif,2251,200,46,Kenya
+117,2024-05-10,Facebook,Événement Communautaire,"Festival, Quartier, Solidarité",Très Positif,1355,67,40,RDC
+118,2024-05-11,YouTube,Arts capillaires - Coiffures naturelles,"Afro, Naturelle, Soins, Texture",Positif,2717,169,74,Marseille
+119,2024-05-12,TikTok,Arts capillaires - Locks,"Locks, Dreadlocks, Entretien",Très Positif,1614,218,140,Strasbourg
+120,2024-05-13,YouTube,Jeux vidéo,"Gaming, Stream, Console, PC",Positif,1924,265,156,Sénégal
