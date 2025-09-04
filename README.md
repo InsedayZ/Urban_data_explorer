@@ -1,12 +1,12 @@
-# Urban Data Explorer – Analyse des Pratiques urbaines
+## Urban Data Explorer – Analyse des Pratiques urbaines
 
 Mini-projet d’exploration de données avec **pandas** + **seaborn**.  
 Objectif : produire **5 graphiques simples** et reproductibles pour raconter la donnée.
 
-Ce rapport présente une exploration de données fictives sur les pratiques culturelles urbaines en ligne. Il illustre une démarche fondée sur les données pour comprendre leur visibilité, leur engagement et leur perception.
+Ce rapport présente une exploration de données fictives sur les pratiques culturelles urbaines en ligne. Il illustre une démarche fondée sur des données fictives pour comprendre leur visibilité, leur engagement et leur perception.
 
 ---
-## 🚀 Aperçu  des résultats
+#### 🚀 Aperçu  des résultats
 
 <table>
   <tr>
@@ -18,14 +18,15 @@ Ce rapport présente une exploration de données fictives sur les pratiques cult
     <td><img src="assets/4_sentiments.png" alt="Sentiment par type" width="420"/></td>
   </tr>
   <tr>
-  <td><img src="assets/5_localisations.png" alt="Top 10 des localisations" width="500"/></td>
+  <td><img src="assets/5_localisations.png" alt="Top 10 des localisations" width="520"/></td>
   </tr>
 </table>
 
 > Les graphiques sont générés par le notebook Jupyter. Si les images n'apparaissent pas, exécutez le notebook pour les créer.: ouvrez le notebook et lancez **Run All** (voir ci-dessous).
 
 
-## 💻 Comment l'utiliser
+#### 💻 Comment l'utiliser ?
+
 ```bash
 1. Ouvrez le notebook `notebooks/analyse_epure.ipynb` dans un environnement Jupyter (comme VS Code) et exécutez toutes les cellules 
 - VS Code → `notebooks/analyse_epure.ipynb` → **Run All**  
@@ -37,7 +38,7 @@ Ce rapport présente une exploration de données fictives sur les pratiques cult
 
 ```
 
-## 🗂️ Structure du projet
+#### 🗂️ Structure du projet
 
 ```
 Urban Data Explorer/
@@ -51,7 +52,7 @@ Urban Data Explorer/
 ```
 ---
 
-## 📊 Ce que montrent les 5 graphiques
+#### 📊 Ce que montrent les 5 graphiques
 
 1. **Répartition des pratiques** : quelles catégories publient le plus.  
 2. **Engagement par plateforme** : où se concentrent likes / commentaires / partages.
@@ -72,7 +73,7 @@ Urban Data Explorer/
 
 ---
 
-## 🧰 Fichiers clés
+#### 🧰 Fichiers clés
 
 - `notebooks/analyse_epure.ipynb` — notebook principal (lecture CSV + 4 graphes).  
 - `requirements.txt` — dépendances minimales :
@@ -85,7 +86,7 @@ Urban Data Explorer/
 
 ---
 
-## 🤝 Contribution
+#### 🤝 Contribution
 
 - 🐛 **Un bug ?** Ouvrez une "Issue"
 - 💡 **Une idée ?** Proposez une amélioration
@@ -93,7 +94,7 @@ Urban Data Explorer/
 
 ---
 
-## 👤 Auteur 
+#### 👤 Auteur 
 
  **Nathan ZOUHOU**  GitHub: [@InsedayZ](https://github.com/InsedayZ)
 
